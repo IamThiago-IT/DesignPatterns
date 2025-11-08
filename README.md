@@ -43,12 +43,12 @@ Aqui está uma lista dos padrões de design que você encontrará neste reposit�
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/IamThiago-IT/designPpatterns.git
+   git clone https://github.com/IamThiago-IT/DesignPatterns.git
    ```
 
 2. Instale as dependências necessárias:
    ```bash
-   cd designpatterns
+   cd DesignPatterns
    npm install 
    ```
 
