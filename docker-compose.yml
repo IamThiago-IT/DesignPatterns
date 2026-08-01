@@ -1,0 +1,6 @@
+services:
+  app:
+    build:
+      context: .
+    container_name: designpatterns-app
+    command: bun run index.ts

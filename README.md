@@ -57,6 +57,21 @@ Aqui está uma lista dos padrões de design que você encontrará neste reposit�
    npm run  # yarn dev
    ```
 
+## Executar com Docker
+
+Você também pode executar a aplicação em um container Docker:
+
+```bash
+docker compose build
+docker compose up
+```
+
+Para parar os containers:
+
+```bash
+docker compose down
+```
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você quiser adicionar mais exemplos ou corrigir algo, fique à vontade para abrir um Pull Request. Aqui está como contribuir:
