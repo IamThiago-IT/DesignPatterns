@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY package.json ./
 
-RUN bun install
+RUN bun install --production --ignore-scripts
 
 COPY . .
 
